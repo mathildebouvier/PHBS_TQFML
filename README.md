@@ -62,7 +62,6 @@ We realized the following methods:
 
 
 
-
 ## References
 
 - Leung, C.K.S., MacKinnon, R.K. and Wang, Y., 2014, July. A machine learning approach for stock price prediction. In Proceedings of the 18th International Database Engineering & Applications Symposium (pp. 274-277). ACM.
