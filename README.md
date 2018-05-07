@@ -60,8 +60,8 @@ We realized the following methods:
 
 ## Results
 
-
-
+Using the accuracy as the metric for model evaluation, we found that the Random Forest had the highest score. Consequently, we used this method for our model. 
+On average the market return is better than our strategy however, on the short run, we   
 
 ## References
 
